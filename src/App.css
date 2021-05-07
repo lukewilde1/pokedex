@@ -1,0 +1,14 @@
+.App {
+    background-color: #d42c2c;
+    padding-top: 8rem;
+    min-height: 100vh;
+}
+
+.navbar {
+    background-color: #222224 !important;
+}
+
+.navbar-brand {
+    color: #f0f0f0 !important; 
+    font-size: 40px !important;
+}
