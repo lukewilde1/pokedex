@@ -1,4 +1,8 @@
 # TODO
+- [x] Create cards for homepage
+
+- [x] Create cards for the details of each pokemon's stats
+
 - [ ] Have the search bar return all pokemon with whatever string is entered
 
 
