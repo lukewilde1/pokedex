@@ -1,5 +1,5 @@
 # TODO
-[x] Have the search bar return all pokemon with whatever string is entered
+[] Have the search bar return all pokemon with whatever string is entered
 
 [ ] Split each section of the pokedex on the home page by Generation
 
