@@ -12,3 +12,8 @@
     color: #f0f0f0 !important; 
     font-size: 40px !important;
 }
+
+@font-face {
+    font-family: "Pokemon";
+    src: url('Pokemon\ Solid.ttf');
+}
